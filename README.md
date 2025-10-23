@@ -29,6 +29,6 @@ Dentro del carrito / venta
 | `process_sale`           | Procesar venta y pagar                |
 | `cancel_sale`            | Cancelar la venta actual              |
 
-Se escriben en binded_keys.txt de esta forma:
+Siempre uno por línea. Se escriben en binded_keys.txt de esta forma:
 accion=tecla
-Ejemplo: add_item=a
+Ejemplo: add_item=a o process_sale=enter
