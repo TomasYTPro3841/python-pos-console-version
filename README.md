@@ -1,5 +1,5 @@
 # python-pos
-Es un programa POS hecho en python, tiene UI por consola o grafico con Tkinter desde la version 1.3.0
+Es un programa POS hecho en python, tiene UI por consola o grafico con Tkinter desde la version 1.3.0, desde la versión 1.4.0 las instrucciónes y acualizaciones vienen en el .zip
 Simplemente instala python y ejecuta el servidor con:
 python server_pos.py
 Es un programa y funciona con sqlite, si pide una dependencia solo instálala, las dependencias se incluyen en un txt dentro del .zip de la release desde la versión 1.3.0 los recibos son en .txt
