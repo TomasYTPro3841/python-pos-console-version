@@ -1,8 +1,8 @@
-# python-pos-console-version
-Es la versión de consola de Python Console POS
+# python-pos
+Es un programa POS hecho en python, tiene UI por consola o grafico con Tkinter desde la version 1.3.0
 Simplemente instala python y ejecuta el servidor con:
 python server_pos.py
-Es version consola y funciona con sqlite, si pide una dependencia solo instálala, los recibos son en .txt
+Es un programa y funciona con sqlite, si pide una dependencia solo instálala, las dependencias se incluyen en un txt dentro del .zip de la release desde la versión 1.3.0 los recibos son en .txt
 Se hizo con chatgpt.
 Se pueden programar teclas para realizar acciones especificas desde la versión 1.2.0, aquí la lista de acciones:
 Menú principal
